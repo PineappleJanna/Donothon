@@ -10,9 +10,9 @@ $50 Nezha Prime
 $75 Ignis Riven
 $100 Paris Prime (With Riven)
 $125 Strun Prime
-$150 Garuda Prime and Nagantaka Prime (Shave Beard/Mustache as well)
+$150 Banshee Prime
 $175 Nikana Riven
-$200 Banshee Prime
+$200 Garuda Prime and Nagantaka Prime (Shave Beard/Mustache as well)
 $225 Gara Prime and Volnus Prime
 $250 Harrow Prime
 $275 Rhino Prime
